@@ -1,15 +1,4 @@
-// ==UserScript==
-// @name        Timetable fixer
-// @namespace   https://github.com/XavXav82/Timetable-Fixer/
-// @version     1.6
-// @author      XavXav82
-// @description My plugin for timtable fixing and editing (now with colour customisation)
-// @match       https://link.stleonards.vic.edu.au/timetable
-// @match       https://link.stleonards.vic.edu.au/
-// @match       https://signin.stleonards.vic.edu.au/*
-// @grant       unsafeWindow
-// @run-at      document-start
-// ==/UserScript==
+// Shoutout to Xavier
 
 window.onload = function() {
         //Timetable page
